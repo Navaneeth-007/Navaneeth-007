@@ -29,14 +29,25 @@ I'm **Navaneeth S**, a passionate software developer with expertise in **Flutter
 
 ### 💻 Projects
 
-#### **🔹 E-Commerce Platform**
-- Developed a secure and scalable e-commerce platform with **React & Firebase**.
+#### 🔹 SmartFin – AI-Powered Personal Finance Assistant
+- Developed a web app for tracking expenses, forecasting spending using LSTM, and generating financial insights through dynamic dashboards.  
+- **Tech Stack:** HTML, CSS, JavaScript, Flask, MongoDB
 
-#### **🔹 Blood Donation Management App**
-- Built a Flutter-based mobile application for blood donation and donor tracking using **Firebase**.
+#### 🔹 BloodLink – Blood Donation Management App
+- Built a Flutter-based mobile application for blood donation and donor tracking using Firebase.  
+- **Tech Stack:** Flutter, Firebase
 
-#### **🔹 Voxel Web Reader**
-- Created a **voice-controlled web reader extension** with YOLO-powered image descriptions.
+#### 🔹 Shopoholic – E-Commerce Platform
+- Developed a secure and scalable e-commerce platform with React & Firebase, featuring user login, product listings, and real-time cart functionality.  
+- **Tech Stack:** React, Firebase
+
+#### 🔹 Voxel Web Reader – AI-Powered Chrome Extension
+- Created a voice-controlled web reader extension with YOLO-powered image descriptions and text-to-speech capabilities.  
+- **Tech Stack:** HTML, CSS, JavaScript, Python, YOLOv5, Web Speech API
+
+#### 🔹 SignAI – Real-Time Sign Language Interpreter
+- Built a video calling tool that translates sign language into text and speech using real-time gesture recognition with OpenCV and MediaPipe.  
+- **Tech Stack:** HTML, CSS, JavaScript, Python (OpenCV, MediaPipe), Flask
 
 ---
 
