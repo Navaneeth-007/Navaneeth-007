@@ -1,63 +1,144 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm **Navaneeth S**, a passionate software developer with expertise in **Flutter, React, and AI/ML**. I love creating applications that drive real impact, from **powerful software solutions** to **cutting-edge AI innovations**. Currently pursuing my **M.Tech in Computer Science (AI & ML) at Amrita Vishwa Vidyapeetham**, I'm always eager to learn and collaborate on exciting projects 🚀.
+I'm **Navaneeth S**, a **Data Scientist | AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. My interests span **Machine Learning, Computer Vision, Generative AI, Retrieval-Augmented Generation (RAG), and Deep Learning**.
 
----
-
-## 🚀 Skills & Tech Stack
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-### **Databases**
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+I'm currently pursuing an **M.Tech in Computer Science (AI & ML)** at **Amrita Vishwa Vidyapeetham** and working as a **Data Science Intern at GE Aerospace**, where I build production-grade AI solutions using Large Language Models, RAG pipelines, and cloud technologies.
 
 ---
 
-### 💻 Projects
+## 🚀 About Me
 
-#### 🔹 SmartFin – AI-Powered Personal Finance Assistant
-- Developed a web app for tracking expenses, forecasting spending using LSTM, and generating financial insights through dynamic dashboards.  
-- **Tech Stack:** HTML, CSS, JavaScript, Flask, MongoDB
-
-#### 🔹 BloodLink – Blood Donation Management App
-- Built a Flutter-based mobile application for blood donation and donor tracking using Firebase.  
-- **Tech Stack:** Flutter, Firebase
-
-#### 🔹 Shopoholic – E-Commerce Platform
-- Developed a secure and scalable e-commerce platform with React & Firebase, featuring user login, product listings, and real-time cart functionality.  
-- **Tech Stack:** React, Firebase
-
-#### 🔹 Voxel Web Reader – AI-Powered Chrome Extension
-- Created a voice-controlled web reader extension with YOLO-powered image descriptions and text-to-speech capabilities.  
-- **Tech Stack:** HTML, CSS, JavaScript, Python, YOLOv5, Web Speech API
-
-#### 🔹 SignAI – Real-Time Sign Language Interpreter
-- Built a video calling tool that translates sign language into text and speech using real-time gesture recognition with OpenCV and MediaPipe.  
-- **Tech Stack:** HTML, CSS, JavaScript, Python (OpenCV, MediaPipe), Flask
+- 🎓 M.Tech in Computer Science (AI & ML), Amrita Vishwa Vidyapeetham
+- 💼 Data Science Intern at **GE Aerospace**
+- 📄 Author of research submitted to **IEEE Geoscience and Remote Sensing Letters (GRSL)**
+- 🤖 Passionate about AI, Deep Learning, Computer Vision, and Generative AI
+- 🌱 Currently exploring Agentic AI, LLMs, and AI system design
 
 ---
 
-## 📫 Let's Connect!
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-s-34694021b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Navaneeth-007)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nsnandanam@gmail.com)
-[![Navaneeth S](https://img.shields.io/badge/Navaneeth_S-yellow)](https://navaneeth-portfolio-ebon.vercel.app/)
+### 💻 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-💬 Feel free to reach out if you'd like to collaborate on a project or chat about tech! 😃
+---
 
+### 🤖 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-111827?style=flat)
+
+---
+
+### 🧠 Generative AI & LLMs
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### ☁️ Cloud & Databases
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
+
+### ⚙️ Frameworks & Libraries
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+---
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+# 💼 Experience
+
+### 🚀 Data Science Intern | GE Aerospace
+
+- Built a production-grade Retrieval-Augmented Generation (RAG) assistant using LangChain, LangGraph, Amazon Bedrock, PostgreSQL (pgvector), AWS Lambda, and Amazon S3.
+- Developed AI-driven forecasting solutions for Corporate FP&A teams.
+- Designed scalable AI pipelines for enterprise applications.
+- Contributed to automation initiatives reducing manual forecasting effort.
+
+---
+
+# 📚 Featured Projects
+
+## 🌊 Urban Flood Detection Using SAR Imagery
+
+- Proposed a novel **MSVDP Dual-Encoder Cross-Attention U-Net** for SAR flood segmentation.
+- Achieved **98.77% Pixel Accuracy**, **0.6486 mIoU**, and the highest **F1-score (0.737)** among multiple benchmark architectures.
+- Research submitted to **IEEE Geoscience and Remote Sensing Letters (GRSL)**.
+
+**Tech Stack:** PyTorch • Computer Vision • Deep Learning • Remote Sensing
+
+---
+
+## 💰 SmartFin – AI-Powered Personal Finance Assistant
+
+- Built an LSTM-based forecasting system for predicting personal expenses.
+- Developed a full-stack finance assistant with analytics dashboards.
+
+**Tech Stack:** Python • Flask • MongoDB • LSTM
+
+---
+
+## 🤟 SignAI – Real-Time Sign Language Interpreter
+
+- Developed a real-time sign language recognition system using OpenCV and MediaPipe.
+- Converts gestures into text and speech with inference latency below 100 ms.
+- Finalist at the **Tredence Infinity AI Hackathon 2025**.
+
+**Tech Stack:** Python • Flask • OpenCV • MediaPipe
+
+---
+
+## 🌐 Voxel Web Reader
+
+- AI-powered Chrome extension providing accessible web reading.
+- Supports voice commands, YOLOv5 image descriptions, and text-to-speech.
+
+**Tech Stack:** Python • YOLOv5 • JavaScript
+
+---
+
+# 🏆 Achievements & Certifications
+
+- 🥈 Finalist – Tredence Infinity AI Hackathon 2025
+- 🥈 Finalist – Kochi Hackathon 2025
+- 📄 Research submitted to IEEE GRSL
+- 📚 NPTEL – Introduction to Large Language Models
+
+---
+
+# 📫 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://navaneeth-portfolio-ebon.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-s-34694021b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navaneeth-007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nsnandanam@gmail.com)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me to discuss AI, Machine Learning, Deep Learning, or Generative AI.*
