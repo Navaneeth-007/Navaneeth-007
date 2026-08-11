@@ -1,8 +1,7 @@
 # Hi there 👋
-
 I'm **Navaneeth S**, a **Data Scientist | AI/ML Engineer** passionate about building intelligent systems that solve real-world problems. My interests span **Machine Learning, Computer Vision, Generative AI, Retrieval-Augmented Generation (RAG), and Deep Learning**.
 
-I'm currently pursuing an **M.Tech in Computer Science (AI & ML)** at **Amrita Vishwa Vidyapeetham** and working as a **Data Science Intern at GE Aerospace**, where I build production-grade AI solutions using Large Language Models, RAG pipelines, and cloud technologies.
+I hold an **M.Tech in Computer Science (AI & ML)** from **Amrita Vishwa Vidyapeetham** and recently completed a **Data Science Internship at GE Aerospace**, where I built production-grade AI solutions using Large Language Models, RAG pipelines, and cloud technologies. I'm currently open to full-time opportunities in AI/ML and Data Science.
 
 ---
 
