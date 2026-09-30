@@ -126,7 +126,9 @@ I hold an **M.Tech in Computer Science (AI & ML)** from **Amrita Vishwa Vidyapee
 
 - 🥈 Finalist – Tredence Infinity AI Hackathon 2025
 - 🥈 Finalist – Kochi Hackathon 2025
-- 📄 Research submitted to IEEE GRSL
+- 📜 **IBM Generative AI Engineering Professional Certificate** – IBM / Coursera
+  - Generative AI • LLMs • RAG • LangChain • AI Application Development
+- 📄 Research submitted to IEEE Geoscience and Remote Sensing Letters (GRSL)
 - 📚 NPTEL – Introduction to Large Language Models
 
 ---
